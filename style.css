@@ -52,7 +52,7 @@ img { max-width: 100%; display: block; }
    shows in full (object-fit: contain) rather than being cropped. */
 .banner {
   width: 100%;
-  aspect-ratio: 2 / 1;
+  aspect-ratio: 2216 / 709;
   max-height: 620px;
   border-bottom: 1px solid var(--rule);
   overflow: hidden;
