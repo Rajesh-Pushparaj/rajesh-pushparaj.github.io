@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="720" height="900" viewBox="0 0 720 900">
-  <rect width="720" height="900" fill="#eeece5"/>
-  <rect x="14" y="14" width="692" height="872" fill="none" stroke="#c9c6ba" stroke-width="3" stroke-dasharray="10 8"/>
-  <circle cx="360" cy="360" r="70" fill="none" stroke="#b3b0a2" stroke-width="4"/>
-  <path d="M240 560 Q360 460 480 560" fill="none" stroke="#b3b0a2" stroke-width="4"/>
-  <text x="360" y="700" text-anchor="middle" font-family="system-ui, sans-serif" font-size="30" font-weight="500" fill="#8a8779">Drop your portrait</text>
-</svg>

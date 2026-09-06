@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="2400" height="600" viewBox="0 0 2400 600">
-  <rect width="2400" height="600" fill="#eeece5"/>
-  <rect x="16" y="16" width="2368" height="568" fill="none" stroke="#c9c6ba" stroke-width="3" stroke-dasharray="10 8"/>
-  <text x="1200" y="290" text-anchor="middle" font-family="system-ui, sans-serif" font-size="34" font-weight="500" fill="#8a8779">Drop a landscape image</text>
-  <text x="1200" y="336" text-anchor="middle" font-family="system-ui, sans-serif" font-size="22" fill="#a4a196">a robot in the lab, a sensor rig, a point cloud</text>
-</svg>
