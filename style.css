@@ -53,12 +53,10 @@ img { max-width: 100%; display: block; }
 .banner {
   width: 100%;
   aspect-ratio: 2216 / 709;
-  max-height: 620px;
   border-bottom: 1px solid var(--rule);
   overflow: hidden;
-  background: var(--ink);
 }
-.banner img { width: 100%; height: 100%; object-fit: contain; }
+.banner img { width: 100%; height: 100%; object-fit: cover; }
 
 /* Containers */
 .container-home {
