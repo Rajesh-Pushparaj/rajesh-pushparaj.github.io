@@ -48,11 +48,11 @@ img { max-width: 100%; display: block; }
 .nav--home { padding-bottom: 18px; margin-bottom: 24px; }
 .nav--page { padding-bottom: 28px; }
 
-/* Banner (home only) - sized to the image's own 3:2 aspect ratio so it
+/* Banner (home only) - sized to the image's own 2:1 aspect ratio so it
    shows in full (object-fit: contain) rather than being cropped. */
 .banner {
   width: 100%;
-  aspect-ratio: 3 / 2;
+  aspect-ratio: 2 / 1;
   max-height: 620px;
   border-bottom: 1px solid var(--rule);
   overflow: hidden;
