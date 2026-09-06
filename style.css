@@ -53,7 +53,7 @@ img { max-width: 100%; display: block; }
 .banner {
   width: 100%;
   aspect-ratio: 1720 / 606;
-  max-height: min(40vh, 480px);
+  max-height: min(42vh, 504px);
   border-bottom: 1px solid var(--rule);
   overflow: hidden;
 }
