@@ -48,14 +48,17 @@ img { max-width: 100%; display: block; }
 .nav--home { padding-bottom: 18px; margin-bottom: 24px; }
 .nav--page { padding-bottom: 28px; }
 
-/* Banner (home only) */
+/* Banner (home only) - sized to the image's own 3:2 aspect ratio so it
+   shows in full (object-fit: contain) rather than being cropped. */
 .banner {
-  height: 28vh;
-  min-height: 200px;
+  width: 100%;
+  aspect-ratio: 3 / 2;
+  max-height: 620px;
   border-bottom: 1px solid var(--rule);
   overflow: hidden;
+  background: var(--ink);
 }
-.banner img { width: 100%; height: 100%; object-fit: cover; }
+.banner img { width: 100%; height: 100%; object-fit: contain; }
 
 /* Containers */
 .container-home {
